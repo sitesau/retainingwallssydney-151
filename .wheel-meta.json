@@ -1,0 +1,22 @@
+{
+  "wheel_id": 438,
+  "structure": "umbrella",
+  "slug": "retainingwallssydney-151",
+  "project": "retaining-walls-sydney-cost-guide-d441dd0cebde6ecb0bc1b615e700a",
+  "parent_t1_ref": "retainingwallssydney-007",
+  "node_role": "buffer",
+  "money_target": "retainingwallssydney.net.au",
+  "primary_kw": "retaining walls sydney cost guide",
+  "intended_url": "https://sitesau.github.io/retainingwallssydney-151/",
+  "tier": "T2",
+  "writeback_nonce": "9899fcd1aaafb88a",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/retainingwallssydney-007/",
+      "anchor": "the related resource",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
